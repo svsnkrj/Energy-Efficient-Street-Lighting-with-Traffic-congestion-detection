@@ -10,8 +10,8 @@
 #define WIFI_PASSWORD "mot99pass1"
 
 // Firebase Credentials
-#define API_KEY "AIzaSyCrCfgta_asYii1yjuVoAUBla5y6t0QCV0"
-#define DATABASE_URL "https://streetlight-c0268-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY ""
+#define DATABASE_URL ""
 #define USER_EMAIL ""
 #define USER_PASSWORD ""
 
